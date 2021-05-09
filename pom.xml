@@ -76,6 +76,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>login-0.0.1</finalName>
 	</build>
 
 </project>
